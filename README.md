@@ -1,4 +1,4 @@
-* Description
+# Description
 
 Create a GitHub repository called “st2195_assignment_1” that includes:
 1. a readme.md file with a short markdown description of this assignment [1 point]
